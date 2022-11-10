@@ -10,4 +10,5 @@ int main() {
             std::cout << "wow! you stayed here for this long jeez im going to stop the program ok? KTHXBYE";
         }
     }
+    return 0;
 }
