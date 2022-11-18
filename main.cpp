@@ -8,6 +8,7 @@ int main() {
 
         if (counter < 50000000000000000000L) {
             std::cout << "wow! you stayed here for this long jeez im going to stop the program ok? KTHXBYE"; // KTHXBYE
+            break;
         }
     }
     return 0;
